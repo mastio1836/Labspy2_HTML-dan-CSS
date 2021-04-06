@@ -1,7 +1,3 @@
-Contoh inputanya dari Soal No3
-
-![Eksternal CSS](https://user-images.githubusercontent.com/56244106/113673567-5bfd4680-96e3-11eb-8c90-01b0bbffed8f.PNG)
-
 # Input Sub judul digunakan untuk membuat judul 
 ![input sub judul](https://user-images.githubusercontent.com/56244106/113657445-28f98980-96c8-11eb-9dc3-e3733d5a327f.PNG)
  
@@ -58,28 +54,32 @@ penjelasan dan contohnya!
 
 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
-Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
-
-Jawaban
+Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> 
+ 
+# Jawaban
 
 1.
+  ![Input Eksperimen no1](https://user-images.githubusercontent.com/56244106/113698796-03d43d80-96ff-11eb-905b-e60f028297f2.PNG)
+  
+
+  ![Hasil deklarasi penggabungan css ektern](https://user-images.githubusercontent.com/56244106/113698821-0d5da580-96ff-11eb-851a-b1bcaf4edd04.PNG)
 
 
-2.( h1 )sebagai Selector penanda bagian mana yang akan kita rubah style dengan CSS, menambahkan id untuk bagian tag 
-sehingga kita dapat mengidentifikasi nanti ketika styling.Kita menggunakan tag header untuk membungkus pengantar h1 elemen.
-Selain menggambarkan keseluruhan dokumen, header-tag juga harus digunakan untuk menjelaskan masing-masing bagian. 
+2. ( h1 )sebagai Selector penanda bagian mana yang akan kita rubah style dengan CSS, menambahkan id untuk bagian tag 
+   sehingga kita dapat mengidentifikasi nanti ketika styling.Kita menggunakan tag header untuk membungkus pengantar h1 elemen.
+   Selain menggambarkan keseluruhan dokumen, header-tag juga harus digunakan untuk menjelaskan masing-masing bagian. 
 
-3.CSS Eksternal digunakan untuk Menggabungkan File ke browser.jadi dengan cara tersebut Perubahan yang di buat dari file CSS tersebut 
-akan tampil secara keseluruhan
-Contoh Inputanya ada file readme
-![Hasil deklarasi penggabungan css ektern](https://user-images.githubusercontent.com/56244106/113698379-9cb68900-96fe-11eb-8840-51a3dfcef4c1.PNG)
-
-
-![CSS EKSTERNAL untuk menggabukan](https://user-images.githubusercontent.com/56244106/113698420-a63ff100-96fe-11eb-9fbc-ff6dc5dfd5d7.PNG)
+3.  CSS Eksternal digunakan untuk Menggabungkan File ke browser.jadi dengan cara tersebut Perubahan yang di buat dari file CSS tersebut 
+    akan tampil secara keseluruhan
+    Contoh Inputanya ada file readme
+   ![Hasil deklarasi penggabungan css ektern](https://user-images.githubusercontent.com/56244106/113698379-9cb68900-96fe-11eb-8840-51a3dfcef4c1.PNG)
 
 
+   ![CSS EKSTERNAL untuk menggabukan](https://user-images.githubusercontent.com/56244106/113698420-a63ff100-96fe-11eb-9fbc-ff6dc5dfd5d7.PNG)
 
-4.
+
+
+4.  Semua akan jadi 1 class dan dapat memanggil sekaligus atau berkali-kali sedangkan ID tidak bisa memanggil satu persatu
 
 
 
