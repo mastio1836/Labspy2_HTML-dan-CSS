@@ -33,6 +33,38 @@ Outputnya
 
 ![output hyperlink](https://user-images.githubusercontent.com/56244106/113658026-6f9bb380-96c9-11eb-9951-e5039e501c8e.PNG)
 
+# SOAL
+
+1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
+dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
+
+2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
+penjelasannya!
+
+3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
+elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
+penjelasan dan contohnya!
+
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
+terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
+Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+
+Jawaban
+1.
+
+
+2.( h1 )sebagai Selector penanda bagian mana yang akan kita rubah style dengan CSS, menambahkan id untuk bagian tag 
+sehingga kita dapat mengidentifikasi nanti ketika styling.Kita menggunakan tag header untuk membungkus pengantar h1 elemen.
+Selain menggambarkan keseluruhan dokumen, header-tag juga harus digunakan untuk menjelaskan masing-masing bagian. 
+
+3.CSS Eksternal digunakan untuk Menggabungkan File ke browser.jadi dengan cara tersebut Perubahan yang di buat dari file CSS tersebut 
+akan tampil secara keseluruhan
+Contoh Inputanya ada file readme 
+
+4.
+
+
+
 # Input class Selector
 
 ![class selector](https://user-images.githubusercontent.com/56244106/113658672-a7efc180-96ca-11eb-8b9c-e7d8246cd66f.PNG)
