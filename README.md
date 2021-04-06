@@ -71,7 +71,11 @@ Selain menggambarkan keseluruhan dokumen, header-tag juga harus digunakan untuk 
 
 3.CSS Eksternal digunakan untuk Menggabungkan File ke browser.jadi dengan cara tersebut Perubahan yang di buat dari file CSS tersebut 
 akan tampil secara keseluruhan
-Contoh Inputanya ada file readme 
+Contoh Inputanya ada file readme
+![Hasil deklarasi penggabungan css ektern](https://user-images.githubusercontent.com/56244106/113698379-9cb68900-96fe-11eb-8840-51a3dfcef4c1.PNG)
+
+
+![CSS EKSTERNAL untuk menggabukan](https://user-images.githubusercontent.com/56244106/113698420-a63ff100-96fe-11eb-9fbc-ff6dc5dfd5d7.PNG)
 
 
 
