@@ -1,3 +1,7 @@
+Contoh inputanya dari Soal No3
+
+![Eksternal CSS](https://user-images.githubusercontent.com/56244106/113673567-5bfd4680-96e3-11eb-8c90-01b0bbffed8f.PNG)
+
 # Input Sub judul digunakan untuk membuat judul 
 ![input sub judul](https://user-images.githubusercontent.com/56244106/113657445-28f98980-96c8-11eb-9dc3-e3733d5a327f.PNG)
  
@@ -32,6 +36,8 @@ Outputnya
 # Input class Selector
 
 ![class selector](https://user-images.githubusercontent.com/56244106/113658672-a7efc180-96ca-11eb-8b9c-e7d8246cd66f.PNG)
+
+
 
 output Class Selector
 
