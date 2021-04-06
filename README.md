@@ -61,6 +61,7 @@ terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browse
 Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 
 Jawaban
+
 1.
 
 
@@ -71,6 +72,8 @@ Selain menggambarkan keseluruhan dokumen, header-tag juga harus digunakan untuk 
 3.CSS Eksternal digunakan untuk Menggabungkan File ke browser.jadi dengan cara tersebut Perubahan yang di buat dari file CSS tersebut 
 akan tampil secara keseluruhan
 Contoh Inputanya ada file readme 
+
+
 
 4.
 
