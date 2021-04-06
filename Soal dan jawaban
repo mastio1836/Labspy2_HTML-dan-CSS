@@ -13,3 +13,11 @@ terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browse
 Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 
 Jawaban
+1.
+
+
+2.( h1 )sebagai Selector penanda bagian mana yang akan kita rubah style dengan CSS, menambahkan id untuk bagian tag 
+sehingga kita dapat mengidentifikasi nanti ketika styling.Kita menggunakan tag header untuk membungkus pengantar h1 elemen.
+Selain menggambarkan keseluruhan dokumen, header-tag juga harus digunakan untuk menjelaskan masing-masing bagian. 
+
+3
