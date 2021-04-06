@@ -33,6 +33,17 @@ Outputnya
 
 ![output hyperlink](https://user-images.githubusercontent.com/56244106/113658026-6f9bb380-96c9-11eb-9951-e5039e501c8e.PNG)
 
+# Input class Selector
+
+![class selector](https://user-images.githubusercontent.com/56244106/113658672-a7efc180-96ca-11eb-8b9c-e7d8246cd66f.PNG)
+
+
+
+output Class Selector
+
+![ouputny selector class](https://user-images.githubusercontent.com/56244106/113658714-bc33be80-96ca-11eb-9e82-fd1406997952.PNG)
+
+
 # SOAL
 
 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
@@ -65,14 +76,4 @@ Contoh Inputanya ada file readme
 
 
 
-# Input class Selector
 
-![class selector](https://user-images.githubusercontent.com/56244106/113658672-a7efc180-96ca-11eb-8b9c-e7d8246cd66f.PNG)
-
-
-
-output Class Selector
-
-![ouputny selector class](https://user-images.githubusercontent.com/56244106/113658714-bc33be80-96ca-11eb-9e82-fd1406997952.PNG)
-
-# input Font Warna,Ukuran dari style eksternal css
